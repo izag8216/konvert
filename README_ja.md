@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=flat&color=0D1117&fontColor=3FB950&font=FiraCode&height=120&text=konvert&desc=Universal%20Data%20Format%20Converter&section=header)
+<img src="https://capsule-render.vercel.app/api?type=flat&color=0D1117&fontColor=3FB950&height=120&section=header&text=konvert&fontSize=60&desc=Universal%20Data%20Format%20Converter&descSize=16&fontAlignY=40&descAlignY=55" alt="konvert header" />
 
 ![Python](https://img.shields.io/badge/python-3.10%2B-3FB950?style=flat&logo=python&logoColor=white)
 ![License](https://img.shields.io/badge/license-MIT-0D1117?style=flat)
