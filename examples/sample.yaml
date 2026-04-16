@@ -1,0 +1,14 @@
+name: konvert
+version: 0.1.0
+description: Universal data format converter
+features:
+  - json
+  - yaml
+  - toml
+  - csv
+  - xml
+  - ini
+  - env
+config:
+  pretty: true
+  verbose: false
